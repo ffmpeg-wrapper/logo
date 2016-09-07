@@ -4,7 +4,7 @@
 
 ## Details
 
-- Created with: [Inkscape](https://inkscape.org)
+- Created with: [Photoshop CC](http://www.adobe.com/products/photoshop.html)
 
 ## Licenses
 
